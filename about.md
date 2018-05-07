@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About the Zebracorns
 description: All about the Zebracorns.
 sitemap:
     priority: 0.7
