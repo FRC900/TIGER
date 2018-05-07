@@ -39,6 +39,10 @@ twitter:            frc900
 facebook:           FRC900
 instagram:          team900
 github:             FRC900
+photos:             cqiCVE
+youtube:            UCd59no7grTqLIrGIagIk5Bw
+g-plus:             +FIRSTZebracorn
+
 
 # personal
 location:           Durham, NC
@@ -61,3 +65,5 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+
+handbook: https://drive.google.com/file/d/0B7SC9BMzdll7dU5WYlBEdjVGWlk/view

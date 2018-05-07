@@ -1,27 +1,35 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About
+description: All about the Zebracorns.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2018-05-07
     changefreq: weekly
 ---
-## About our Site
+## About our Team
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/team.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+The Zebracorns are a <i>FIRST</i>® Robotics Competition Team that was founded in 2002. The team was started as a partnership between mentors and students at the North Carolina School of Science and Mathematics with the goal of introducing students to engineering principles through practical application. The team has since opened up membership eligibility to include students from the local community. Durham Public School students, private school students, and home school students are encouraged to join the team. The team now openly recruits students from all over the triangle area and routinely has over 50 student members.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+The mission of The Zebracorns is to inspire and empower students across North Carolina to be exceptional innovators and leaders. Our students and adult mentors work together to learn and apply real-life multi-disciplinary skills, fundamental engineering techniques, and cutting-edge technologies through a creative design process within a culture of personal and team excellence.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+### About the Zebracorn
+<span class="image left"><img src="{{ "/images/Logo-Mono.png" | absolute_url }}" alt="" /></span>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+Our Zebracorn mascot, though a bit ridiculous, has a significant meaning. Our team was founded in a boarding school in Durham, The North Carolina School of Science and Mathematics, whose mascot is a unicorn; however, our team is made of students from various area schools and home-school students. To represent this diversity, we added stripes to the original unicorn mascot and created the Zebracorn.
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<h3>The Legend of the Zebracorn</h3>
+Long ago and far away, in a land known as Durham, lived a mystical, magical creature called the Unicorn. When the Unicorn was not out frolicking on Watts Lawn, he attended sporting events at the NC School of Science and Math. He was so energetic and enthusiastic that the school adopted him as their mascot.
+
+Years went by and the Unicorn continued to cheer for the students of NCSSM. Then, one year, the school’s <i>FIRST</i> Robotics Team decided that they needed a mascot too. The Unicorn was ecstatic! He quickly volunteered, but he knew that the <i>FIRST</i> Robotics Team was a very different animal than the sports teams, and that he would have to be a very different animal if he wanted to serve this unique group of students.
+
+The Unicorn contemplated many options; he could become a lion – too scary, a robot – too typical, a math symbol – too stifling… eventually, after receiving advice from his cousin in the land of OZ, he decided the best option was to become a horse of a different color. He thought the school colors were great, but for some reason blue and white just didn’t seem to fit the <i>FIRST</i> Robotics Team. The students on the team were still magical, but they were also down to earth, and that gave him an idea – he would take on the colors of a real horse.
+
+He finally settled on the Zebra, partly because he just liked the pattern, and partly because he knew that Zebras in the wild would stick together and they blended so well into one another that it became difficult for predators to separate them. The <i>FIRST</i> Robotics Team was the same way – after spending so much time and effort on the robot, the team became very closely intertwined and were not easily divided, even when threatened.
+
+Fearing that they would think he had over-analyzed them, the Unicorn pitched his idea to the team, and to his surprise, they were delighted! They congratulated him on his wonderful deductive reasoning skills, and happily informed him that he was the best candidate imaginable and that from then on he would be their mascot.
+
+### About the space
+Our lab is at Northgate mall Space 101. To find the space, go in mall entrance 2 (closest to the movie theater) and it is the first space on your right.
