@@ -1,6 +1,6 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Zebracorn Labs</a></li>
+  <li class="{% if page.url contains '/labs/' %} active {% endif %}"><a href="{{ "/labs/" | absolute_url }}">Zebracorn Labs</a></li>
   <li class="{% if page.url contains '/handbook/' %} active {% endif %}"><a href="{{ "/handbook/" | absolute_url }}">Team Handbook</a></li>
 </ul>
