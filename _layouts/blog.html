@@ -26,4 +26,57 @@
 
             {% include nav.html %}
   					{% include social.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+          <article class="post featured">
+            <header class="major">
+              <h2><a href="#">Zebracorn Labs</a></h2>
+              <p>Here at the Zebracorns, we believe in learning and pushing boundaries. In persuit of that, we have published papers, given talks, and have other tidbits of knowledge lying around. We hope you enjoy these as much as we do.
+							</p>
+            </header>
+
+          </article>
+					<!-- Post -->
+					<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+								</header>
+								<div class="post-tags">
+								  {% if post %}
+								    {% assign tags = post.tags %}
+								  {% else %}
+								    {% assign tags = page.tags %}
+								  {% endif %}
+								  {% for tag in tags %}
+								  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+								  {% unless forloop.last %}&nbsp;{% endunless %}
+								  {% endfor %}
+								</div>
+								<p>{{ post.excerpt }}</p>
+								<p>{{ post.content }}</p>
+							</article>
+						{% endfor %}
+
+					</section>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
 </html>
