@@ -3,7 +3,7 @@ layout: post
 title:  "Computer Vision"
 date:   2015-12-05
 excerpt: "Introduction to computer vision in relation to FRC as given at the FRC NC Workshop at JCC."
-authors: Alon Greyberl
+authors: Alon Greyber
 tags: [Programming, Vision]
 ---
 <ul style="text-align:left">
