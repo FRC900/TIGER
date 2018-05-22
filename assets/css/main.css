@@ -4494,3 +4494,7 @@
     align-items: center;
     overflow: hidden
 }
+.pagination-top{
+	border-top: none !important;
+	padding:0 !important;
+}

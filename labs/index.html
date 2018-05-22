@@ -1,0 +1,32 @@
+---
+layout: blog
+title: Zebracorn Labs
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+
+{% for post in paginator.posts %}
+{% assign mod3 = forloop.index | modulo: 3 %}
+	<article>
+		<header>
+			<span class="date">{{ post.date | date_to_string }} - {{post.authors}}</span>
+			<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+		</header>
+		<div class="post-tags">
+		  {% if post %}
+		    {% assign tags = post.tags %}
+		  {% else %}
+		    {% assign tags = page.tags %}
+		  {% endif %}
+		  {% for tag in tags %}
+		  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+		  {% unless forloop.last %}&nbsp;{% endunless %}
+		  {% endfor %}
+		</div>
+		<p>{{ post.excerpt }}</p>
+		<p>{{ post.content }}</p>
+	</article>
+{% endfor %}
