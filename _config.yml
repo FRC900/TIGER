@@ -57,7 +57,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-paginate: 6
+paginate: 10
 paginate_path: "/labs/page:num/"
 
 jekyll-mentions:
