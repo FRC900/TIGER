@@ -4,7 +4,7 @@ bio:                'Can Haz Bio'
 description:        "Website thing"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "team900.org" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -34,7 +34,7 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       UA-119729652-1
 twitter:            frc900
 facebook:           FRC900
 instagram:          team900
