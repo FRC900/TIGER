@@ -7,6 +7,6 @@ authors: Forrest Hurley
 tags: [Virtual Reality]
 ---
 <ul style="text-align:left">
-  <li><a href="https://drive.google.com/file/d/1NSS7bzXq7X3dzlPJWKWS7DOnWybtZqcJ/view?usp=sharing" target="\_blank">Paper</a></li>
+  <li><a href="https://www.chiefdelphi.com/forums/showthread.php?t=160893&highlight=zebrareality+0.1-0.3" target="\_blank">Paper</a></li>
   <li><a href="https://www.chiefdelphi.com/forums/showthread.php?p=17180748" target="\_blank">Chief Delphi Post</a></li>
 </ul>
