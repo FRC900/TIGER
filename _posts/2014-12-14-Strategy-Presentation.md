@@ -7,5 +7,5 @@ authors: Patricia Beekman
 tags: [Strategy]
 ---
 <ul style="text-align:left">
-  <li><a href="https://drive.google.com/file/d/0B593JYR6RPb0LVUxcFpTYnl6dUk/https://drive.google.com/file/d/0B593JYR6RPb0bTk4SFpqSVBUWEk/view" target="\_blank">Presentation</a></li>
+  <li><a href="https://drive.google.com/file/d/0B593JYR6RPb0bTk4SFpqSVBUWEk/view" target="\_blank">Presentation</a></li>
 </ul>
