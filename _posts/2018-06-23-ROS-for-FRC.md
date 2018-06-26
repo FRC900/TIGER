@@ -7,6 +7,6 @@ authors: Anja Sheppard, Olivia Fugikawa, Niall Mullane, Ryan Greenblatt, Kevin J
 tags: [ROS,ZebROS]
 ---
 <ul style="text-align:left">
-  <li><a href="" target="\_blank">Paper</a></li>
+  <li><a href="https://drive.google.com/file/d/10mWXB3A-8pYjUPLHov9aFyGS0sUe4UIZ/view" target="\_blank">Paper</a></li>
   <li><a href="" target="\_blank">Chief Delphi Post</a></li>
 </ul>
