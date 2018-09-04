@@ -44,4 +44,7 @@
   <div class="4u 12u$(small) fill">
     <a href="http://www.ctr-electronics.com" class="image" target="_blank"><img src="{{ "/images/sponsors/CTRE.png" | absolute_url }}" width="100%" alt="" /></a>
   </div>
+    <div class="4u 12u$(small) fill">
+    <a href="https://www.solidworks.com" class="image" target="_blank"><img src="{{ "/images/sponsors/SolidWorks.jpg" | absolute_url }}" width="100%" alt="" /></a>
+  </div>
 </div>
