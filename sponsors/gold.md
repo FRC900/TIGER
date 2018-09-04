@@ -41,4 +41,7 @@
   <div class="4u 12u$(small) fill">
     <a href="http://ydlidar.com" class="image" target="_blank"><img src="{{ "/images/sponsors/ydlidar.png" | absolute_url }}" width="100%" alt="" /></a>
   </div>
+  <div class="4u 12u$(small) fill">
+    <a href="http://www.ctr-electronics.com" class="image" target="_blank"><img src="{{ "/images/sponsors/CTRE.png" | absolute_url }}" width="100%" alt="" /></a>
+  </div>
 </div>
