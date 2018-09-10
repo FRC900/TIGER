@@ -18,6 +18,9 @@
     <a href="http://www.pixelmator.com/pro/"target="_blank">Pixelmator</a>
   </div>
   <div class="3u 12u$(small) fill">
+    <a href="https://www.grapeboard.com"target="_blank">Scalys Grapeboard</a>
+  </div>
+  <div class="3u 12u$(small) fill">
     <a href="https://slack.com"target="_blank">Slack</a>
   </div>
   <div class="3u 12u$(small) fill">
