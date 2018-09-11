@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ZebraVision 6.0: A Continuation of ROS for FRC"
-date:   2018-07-04
+date:   2018-09-06
 excerpt: "Zebravison 6.0 is a crucial development step towards the completion of a robust and dynamic codebase. Integration of ROS allows for automation and communication between systems, giving way to advanced developments in all features of sensors on the robot. The primary objective was to collect data and extract critical information about the position of the robot compared to other objects on the field. In other words, complete localization and environmental visualization in all aspects of the robot. This task, though expansive, has been finalized and polished off, leaving almost no robot-relative values unknown. Computer vision on The Zebracorns is closing the gap between the current standard of robotics and the goal of a fully functional, independent, and autonomous robot."
 authors: Hans Khatri
 tags: [Programming, Vision]
