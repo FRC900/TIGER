@@ -25,4 +25,4 @@ Our Zebracorn mascot, though a bit fanciful, has a significant meaning. Our team
 
 
 ## About the space
-Our lab is at Northgate mall Space 101. To find the space, go in mall entrance 2 (closest to the movie theater) and it is the first space on your right.
+Our lab is in the Mechantronics Lab at the North Carolina School of Science and Mathematics. In the Hunt dorm, we share the space with robotics classes, the rocketry team, FLL teams and FTC teams.
