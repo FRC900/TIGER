@@ -46,10 +46,15 @@
   <div class="4u 12u$(small) fill">
     <a href="https://www.solidworks.com" class="image" target="_blank"><img src="{{ "/images/sponsors/solidworks.jpg" | absolute_url }}" width="100%" alt="" /></a>
   </div>
+   <div class="4u 12u$(small) fill">
+    <a href="https://www.terabee.com/" class="image" target="_blank"><img src="{{ "/images/sponsors/terabee-logo.png" | absolute_url }}" width="100%" alt="" /></a>
+  </div>
   <div class="4u 12u$(small) fill">
     <a href="http://www.uscase.com/" class="image" target="_blank"><img src="{{ "/images/sponsors/uscase.png" | absolute_url }}" width="100%" alt="" /></a>
   </div>
+ </div>
+ <div class="row">
   <div class="4u 12u$(small) fill">
     <a href="http://ydlidar.com" class="image" target="_blank"><img src="{{ "/images/sponsors/ydlidar.png" | absolute_url }}" width="100%" alt="" /></a>
   </div>
-</div>
+
