@@ -56,6 +56,12 @@
 			max-width: 49%;
 		}
 	}
+	@media screen and (max-width: 560px) {
+		.teamphoto
+		{
+			max-width: 100%;
+		}
+	}
 	@media screen and (max-width: 360px) {
 		.teamphoto
 		{
