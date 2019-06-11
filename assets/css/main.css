@@ -31,7 +31,14 @@
 	{
 		text-align: center;
 	}
-	
+	.teamphoto img
+	{
+		width: 550px;
+	}
+	.teamphoto a
+	{
+		border-bottom: none;
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
