@@ -23,21 +23,44 @@
 		/*font: inherit;*/
 		vertical-align: baseline;
 	}
+
+/*  Photos Page*/
 	.teamphoto
 	{
-		display: inline-block
+		display: inline-block;
+		max-width: 49%;
 	}
 	.teamphoto h3
 	{
 		text-align: center;
 	}
-	.teamphoto img
-	{
-		width: 550px;
-	}
+	
 	.teamphoto a
 	{
 		border-bottom: none;
+	}
+	.teamphoto img
+	{
+		max-width: 100%;
+	}
+	
+	@media screen and (max-width: 1680px) {
+		.teamphoto
+		{
+			max-width: 49%;
+		}		
+	}
+	@media screen and (max-width: 1280px) {
+		.teamphoto
+		{
+			max-width: 49%;
+		}
+	}
+	@media screen and (max-width: 360px) {
+		.teamphoto
+		{
+			max-width: 100%;
+		}
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
