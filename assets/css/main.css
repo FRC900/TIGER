@@ -23,6 +23,15 @@
 		/*font: inherit;*/
 		vertical-align: baseline;
 	}
+	.teamphoto
+	{
+		display: inline-block
+	}
+	.teamphoto h3
+	{
+		text-align: center;
+	}
+	
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
