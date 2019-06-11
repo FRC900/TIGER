@@ -56,7 +56,7 @@
 			max-width: 49%;
 		}
 	}
-	@media screen and (max-width: 560px) {
+	@media screen and (max-width: 700px) {
 		.teamphoto
 		{
 			max-width: 100%;
