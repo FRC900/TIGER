@@ -1,7 +1,12 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/sponsors/' %} active {% endif %}"><a href="{{ "/sponsors/" | absolute_url }}">Sponsors</a></li>
-  <li class="{% if page.url contains '/labs/' %} active {% endif %}"><a href="{{ "/labs/" | absolute_url }}">Zebracorn Labs</a></li>
-  <li class="{% if page.url contains '/handbook/' %} active {% endif %}"><a href="{{ "/handbook/" | absolute_url }}">Team Handbook</a></li>
+  <li class="{% if page.url contains '/start/' %} active {% endif %}"><a href="{{ "/start/" | absolute_url }}">Getting Started</a></li>
+  <li class="{% if page.url contains '/strategy/' %} active {% endif %}"><a href="{{ "/strategy/" | absolute_url }}">Team Organization/Management</a></li>
+  <li class="{% if page.url contains '/strategy/' %} active {% endif %}"><a href="{{ "/strategy/" | absolute_url }}">Marketing/Fundraising</a></li>
+  <li class="{% if page.url contains '/strategy/' %} active {% endif %}"><a href="{{ "/strategy/" | absolute_url }}">Strategy</a></li>
+  <li class="{% if page.url contains '/mechanical/' %} active {% endif %}"><a href="{{ "/mechanical/" | absolute_url }}">CAD/Mechanical</a></li>
+  <li class="{% if page.url contains '/programming/' %} active {% endif %}"><a href="{{ "/programming/" | absolute_url }}">Programing</a></li>
+  <li class="{% if page.url contains '/mentors/' %} active {% endif %}"><a href="{{ "/mentors/" | absolute_url }}">For Mentors</a></li>
+  <li class="{% if page.url contains '/resources/' %} active {% endif %}"><a href="{{ "/resources/" | absolute_url }}">Resources</a></li>
+
 </ul>
