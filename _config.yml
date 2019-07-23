@@ -3,8 +3,8 @@ title:              TIGER
 bio:                'Can Haz Bio'
 description:        "Teaching Innovation, Graciousness, and Engineering through Robotics"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/TIGER" # the subpath of your site, e.g. /blog
+url: "team900.org" # the base hostname & protocol for your site
 
 defaults:
 - scope:
