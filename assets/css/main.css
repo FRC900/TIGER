@@ -3473,8 +3473,8 @@
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
 		background: rgba(255, 255, 255, 0.175);
-		height: 4rem;
-		line-height: 4rem;
+		height: 2rem;
+		line-height: 2rem;
 		margin: -4rem auto 0 auto;
 		overflow: hidden;
 		padding: 0 1rem 0 0;
